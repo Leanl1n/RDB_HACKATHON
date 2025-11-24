@@ -1,0 +1,10 @@
+
+COLUMN MAPPING FOR INSIGHTS:
+------------------------------
+source: 'Source'
+country: 'Country'
+sentiment: 'Sentiment'
+keywords: 'Headline'
+date: 'Date'
+reach: 'Reach'
+url: 'Web Link'
