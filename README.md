@@ -4,7 +4,7 @@ This repository contains the complete collection of student outputs submitted fo
 
 ---
 
-## 📁 Repository Structure
+📁 Repository Structure
 
 Below are the included groups and their assigned project themes:
 
