@@ -8,7 +8,7 @@ This repository contains the complete collection of student outputs submitted fo
 
 Below are the included groups and their assigned project themes:
 
-### **### **Group 10 – Mobile Games**
+### **Group 10 – Mobile Games**
 
 ### **Group 9 – DND**
 
