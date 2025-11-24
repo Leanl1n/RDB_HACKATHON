@@ -8,16 +8,16 @@ This repository contains the complete collection of student outputs submitted fo
 
 Below are the included groups and their assigned project themes:
 
-### **Group 10 – Mobile Games**
+**Group 10 – Mobile Games**
 
-### **Group 9 – DND**
+**Group 9 – DND**
 
-### **Group 8 – PPOP**
+**Group 8 – PPOP**
 
-### **Group 7 – PCO**
+**Group 7 – PCO**
 
-### **Group 6 – Streaming Platforms**
+**Group 6 – Streaming Platforms**
 
-### **Group 5 – Cyclones**
+**Group 5 – Cyclones**
 
-### **Group 3 – Shoes**
+**Group 3 – Shoes**
