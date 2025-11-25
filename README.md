@@ -1,6 +1,6 @@
 # RDB Hackathon – Project Compilation
 
-This repository contains the complete collection of student outputs submitted for the **RDB Hackathon**. Each group worked on a unique topic and produced a project folder showcasing their analysis, designs, and final presentation.
+This repository contains the complete collection of team outputs submitted for the **RDB Hackathon**. Each group worked on a unique topic and produced a project folder showcasing their analysis, designs, and final presentation.
 
 ---
 
